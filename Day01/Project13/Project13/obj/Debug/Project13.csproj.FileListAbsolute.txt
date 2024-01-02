@@ -1,0 +1,7 @@
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project13\Project13\bin\Debug\Project13.exe.config
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project13\Project13\bin\Debug\Project13.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project13\Project13\bin\Debug\Project13.pdb
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project13\Project13\obj\Debug\Project13.csproj.AssemblyReference.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project13\Project13\obj\Debug\Project13.csproj.CoreCompileInputs.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project13\Project13\obj\Debug\Project13.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project13\Project13\obj\Debug\Project13.pdb

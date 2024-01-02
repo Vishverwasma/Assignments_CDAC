@@ -1,0 +1,7 @@
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project20\Project20\bin\Debug\Project20.exe.config
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project20\Project20\bin\Debug\Project20.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project20\Project20\bin\Debug\Project20.pdb
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project20\Project20\obj\Debug\Project20.csproj.AssemblyReference.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project20\Project20\obj\Debug\Project20.csproj.CoreCompileInputs.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project20\Project20\obj\Debug\Project20.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Day01\Project20\Project20\obj\Debug\Project20.pdb

@@ -1,0 +1,14 @@
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\ConstructorAndInheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\ConstructorAndInheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\ConstructorAndInheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\ConstructorAndInheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\ConstructorAndInheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\ConstructorAndInheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Day03-OOPs\ConstructorAndInheritance\Inheritance\obj\Debug\Inheritance.pdb
