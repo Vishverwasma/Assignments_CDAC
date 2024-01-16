@@ -1,0 +1,54 @@
+﻿@model Synechron.EventsProtal.Models.Employee
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h1>Details of - @Model.Employee_Name</h1>
+<table clss="table table-hover table-striped">
+    <tbody>
+        <tr>
+            <th>Employee ID</th>
+            <td>@Model.Employee_ID</td>
+        </tr>
+        <tr>
+            <th>Employee Name</th>
+            <td>@Model.Employee_Name</td>
+        </tr>
+        <tr>
+            <th>Address</th>
+            <td>@Model.Address</td>
+        </tr>
+        <tr>
+            <th>Employee City</th>
+            <td>@Model.City</td>
+        </tr>
+        <tr>
+            <th>Country</th>
+            <td>@Model.Country</td>
+        </tr>
+        <tr>
+            <th>ZipCode</th>
+            <td>@Model.ZipCode</td>
+        </tr>
+        <tr>
+            <th>Email</th>
+            <td>@Model.Email</td>
+        </tr>
+        <tr>
+            <th>Phone Number</th>
+            <td>@Model.Phone_Number</td>
+        </tr>
+        <tr>
+            <th>Employees Skill-Sets</th>
+            <td>@Model.Skill_Sets</td>
+        </tr>
+        <tr>
+            <th>Avatar</th>
+            <td>
+                <img src=@Url.Content(Model.Avatar)
+                     alt="@Model.Employee_Name"/>
+            </td>
+        </tr>
+    </tbody>
+</table>

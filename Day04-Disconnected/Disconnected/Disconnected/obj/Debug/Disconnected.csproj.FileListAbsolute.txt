@@ -1,0 +1,17 @@
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\Disconnected.exe.config
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\Disconnected.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\Disconnected.pdb
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\MySql.Data.dll
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\System.Memory.dll
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\System.Numerics.Vectors.dll
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\System.Buffers.dll
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\bin\Debug\MySql.Data.xml
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.AssemblyReference.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\obj\Debug\Disconnected.Form1.resources
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\obj\Debug\Disconnected.Properties.Resources.resources
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.GenerateResource.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.CoreCompileInputs.cache
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.CopyComplete
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\obj\Debug\Disconnected.exe
+D:\Batch 6\MicroSoft (.net) DOT NET\Assignments_CDAC\Day04-Disconnected\Disconnected\Disconnected\obj\Debug\Disconnected.pdb
